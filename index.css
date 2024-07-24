@@ -162,7 +162,8 @@ p {
   .social-li
   .social-a
   .icon {
-  font-size: 20px;
+  font-size: 30px;
+  color: #FFFFFF;
 }
 
 /* ==================================
@@ -250,8 +251,8 @@ nav-start-here
   padding-right: 32px;
 }
 .img-media {
-  height: 30px;
-  width: auto;
+  font-size: 30px;
+  color: #FFFFFF;
 }
 .right-nav {
   display: flex;
@@ -1566,6 +1567,10 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF);
   font-weight: 700;
   font-size: 18px;
   line-height: 28px;
+}
+.footer-a-media{
+  color: #FFFFFF;
+  font-size: 30px;
 }
 .input-detail {
   color: rgba(143, 141, 160, 1);
