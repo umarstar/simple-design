@@ -237,6 +237,7 @@ nav-start-here
   font-weight: 600;
   font-size: 20px;
   letter-spacing: 0.16px;
+  transition: .4s;
 }
 .ul-item .li-item .a-item:hover {
   color: wheat;
