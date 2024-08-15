@@ -75,3 +75,10 @@ var swiper = new Swiper("#mySwiper1", {
     prevEl: ".swiper-button-prev",
   },
 });
+
+
+function storeData() {
+  const inputData = document.getElementById('dataInput').value;
+  localStorage.setItem('storedData', inputData);
+  alert('Data saved: ' + inputData);
+}
